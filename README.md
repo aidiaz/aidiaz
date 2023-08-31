@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## What i'm up to
 
 - 🔭 Currently working @[Andes Electronics](https://andeselectronics.cl)
-- 🌱 Currently working with:
+- 🌱 Mostly working with:
   -  [Altium](https://www.alitum.com)
   -  [Python](https://www.python.org/)
   -  [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
