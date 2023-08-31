@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## What i'm up to
+
+- 🔭 Currently working @[Andes Electronics](https://andeselectronics.cl)
+- 🌱 Currently working with:
+  -  [Altium](https://www.alitum.com)
+  -  [Python](https://www.python.org/)
+  -  [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+  -  [esp-idf](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/)
+  -  [AWS](https://aws.amazon.com/)
+
+- ⚡ Lately, learning about BLE, [Javascript](https://www.javascript.com) and [React](https://reactjs.org)
+<br />
+
