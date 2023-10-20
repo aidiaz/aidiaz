@@ -25,6 +25,6 @@ Here are some ideas to get you started:
   -  [AWS](https://aws.amazon.com/)
   -  [Altium](https://www.alitum.com)
 
-- ⚡ Lately, learning about BLE, computer vision, [Javascript](https://www.javascript.com), [React](https://reactjs.org) and [AWS](https://aws.amazon.com/)
+- ⚡ Lately been learning about BLE, computer vision, [Javascript](https://www.javascript.com), [React](https://reactjs.org) and [AWS](https://aws.amazon.com/)
 <br />
 
