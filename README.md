@@ -23,6 +23,6 @@ Here are some ideas to get you started:
   -  [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
   -  [AWS](https://aws.amazon.com/)
 
-- ⚡ Lately been learning about BLE, computer vision, [Javascript](https://www.javascript.com), [React](https://reactjs.org) and [AWS](https://aws.amazon.com/)
+- ⚡ Lately been learning about automation software devolpment, robots, plc's, computer vision, [Javascript](https://www.javascript.com), [React](https://reactjs.org) and [AWS](https://aws.amazon.com/)
 <br />
 
